@@ -1,0 +1,10 @@
+C:\WinForms - Dynamic Control Creation\bin\Debug\How-To Dynamic Control Creation.exe.config
+c:\WinForms - Dynamic Control Creation\bin\Debug\How-To Dynamic Control Creation.exe
+c:\WinForms - Dynamic Control Creation\bin\Debug\How-To Dynamic Control Creation.pdb
+c:\WinForms - Dynamic Control Creation\obj\Debug\How-To Dynamic Control Creation.csprojResolveAssemblyReference.cache
+c:\WinForms - Dynamic Control Creation\obj\Debug\frmAbout.resources
+c:\WinForms - Dynamic Control Creation\obj\Debug\frmMain.resources
+c:\WinForms - Dynamic Control Creation\obj\Debug\frmSurveyForm.resources
+c:\WinForms - Dynamic Control Creation\obj\Debug\How-To Dynamic Control Creation.csproj.GenerateResource.Cache
+c:\WinForms - Dynamic Control Creation\obj\Debug\How-To Dynamic Control Creation.exe
+c:\WinForms - Dynamic Control Creation\obj\Debug\How-To Dynamic Control Creation.pdb
